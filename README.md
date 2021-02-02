@@ -24,12 +24,12 @@ A repo of courses and projects completed on my way to learning all about data
   * Lambdas
   * Error handling and debugging
   * Web scraping and API requests
-Concepts of OOP
-Iterators and generators
-Decorators
-TDD
-Regex
-Python + SQL
+  * Concepts of OOP
+  * Iterators and generators
+  * Decorators
+  * TDD
+  * Regex
+  * Python + SQL
 
 
 ### Data Science A-Z
@@ -37,10 +37,20 @@ Python + SQL
 * The highest rated data science course on Udemy
 * 21 hours of taught content, 217 lectures
 * Approximately 50% of this course focussed on the ETL phase, data munging, and error handling
-  * Software used:
-
-
-
-
+* Topics include:
+  * ETL - data wrangling/cleaning and preparing data
+  * Data integration with SSIS and error handling
+  * MS SQL Server
+  * Statistics and modelling methods (Forwards/backwards elimination)
+  * Simple and multivariate linear regressions, logistic regressions
+  * Assessing models/ CAP curves
+  * Model maintenance
+  * Visualisations with Tableau
+* Software Used:
+  * SSIS
+  * MS SQL Server
+  * Tableau
+  * Gretl
 
 ## Certificates
+

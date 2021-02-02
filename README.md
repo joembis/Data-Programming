@@ -54,5 +54,7 @@ A repo of courses and projects completed on my way to learning all about data
 
 ### Certificates
 <p>
-  <img src="images/data_science_az_cert.jpg" alt="Logo" width="800" height="595">
+  <img src="images/python_3_bootcamp_cert.jpg" alt="Logo" width="600" height="445">
+
+  <img src="images/data_science_az_cert.jpg" alt="Logo" width="600" height="445">
 </p>

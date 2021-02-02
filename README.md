@@ -30,16 +30,16 @@
   <details>
            <summary>Topics Covered:</summary>
            <p> 
-  * Built-in functions
-  * Lambdas
-  * Error handling and debugging
-  * Web scraping and API requests
-  * Concepts of OOP
-  * Iterators and generators
-  * Decorators
-  * TDD
-  * Regex
-  * Python + SQL</p>
+             * Built-in functions
+             * Lambdas
+             * Error handling and debugging
+             * Web scraping and API requests
+             * Concepts of OOP
+             * Iterators and generators
+             * Decorators
+             * TDD
+             * Regex
+             * Python + SQL</p>
          </details>
 
 

@@ -10,7 +10,8 @@
     A repo dedicated to learning data science
   </p>
 </p>
-----
+- - - -
+
 # Courses
 ### The Modern Python 3 Bootcamp
 * [https://www.udemy.com/course/the-modern-python3-bootcamp/]()

@@ -53,4 +53,6 @@ A repo of courses and projects completed on my way to learning all about data
   * Gretl
 
 ## Certificates
-
+<p>
+  <img src="images/logo.svg" alt="Logo" width="80" height="80">
+</p>

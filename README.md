@@ -54,5 +54,5 @@ A repo of courses and projects completed on my way to learning all about data
 
 ## Certificates
 <p>
-  <img src="images/logo.svg" alt="Logo" width="80" height="80">
+  <img src="images/data_science_az_cert.jpg" alt="Logo" width="800" height="595">
 </p>

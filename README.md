@@ -10,7 +10,7 @@
     A repo dedicated to learning data science
   </p>
 </p>
-
+----
 # Courses
 ### The Modern Python 3 Bootcamp
 * [https://www.udemy.com/course/the-modern-python3-bootcamp/]()
@@ -30,16 +30,16 @@
   <details>
            <summary>Topics Covered:</summary>
            <p> 
-             * Built-in functions
-             * Lambdas
-             * Error handling and debugging
-             * Web scraping and API requests
-             * Concepts of OOP
-             * Iterators and generators
-             * Decorators
-             * TDD
-             * Regex
-             * Python + SQL</p>
+             Built-in functions<br>
+             Lambdas<br>
+             Error handling and debugging<br>
+             Web scraping and API requests<br>
+             Concepts of OOP<br>
+             Iterators and generators<br>
+             Decorators<br>
+             TDD<br>
+             Regex<br>
+             Python + SQL</p>
          </details>
 
 

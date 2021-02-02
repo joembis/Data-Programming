@@ -19,7 +19,17 @@ A repo of courses and projects completed on my way to learning all about data
 * [https://www.udemy.com/course/the-modern-python3-bootcamp/]()
 * The highest rated Python course on Udemy
 * 30 hours of taught content, 376 lectures, 200 coding exercises and challenges
- * Includes
+* Topics covered:
+  * Built-in functions
+  * Lambdas
+  * Error handling and debugging
+  * Web scraping and API requests
+Concepts of OOP
+Iterators and generators
+Decorators
+TDD
+Regex
+Python + SQL
 
 
 ### Data Science A-Z

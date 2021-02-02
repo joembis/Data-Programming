@@ -10,7 +10,6 @@
     A repo dedicated to learning data science
   </p>
 </p>
-- - - -
 
 # Courses
 ### The Modern Python 3 Bootcamp
@@ -28,21 +27,6 @@
   * TDD
   * Regex
   * Python + SQL
-  <details>
-           <summary>Topics Covered:</summary>
-           <p> 
-             Built-in functions<br>
-             Lambdas<br>
-             Error handling and debugging<br>
-             Web scraping and API requests<br>
-             Concepts of OOP<br>
-             Iterators and generators<br>
-             Decorators<br>
-             TDD<br>
-             Regex<br>
-             Python + SQL</p>
-         </details>
-
 
 ### Data Science A-Z
 * [https://www.udemy.com/course/datascience/]

@@ -16,6 +16,12 @@ A repo of courses and projects completed on my way to learning all about data
 
 ## Courses
 ### The Modern Python 3 Bootcamp
-* abc
 * [https://www.udemy.com/course/the-modern-python3-bootcamp/]()
-* []()
+* The highest rated Python course on Udemy
+* 30 hours of taught content, 376 lectures, 200 coding exercises and challenges
+
+
+
+
+
+## Certificates

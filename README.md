@@ -52,7 +52,7 @@ A repo of courses and projects completed on my way to learning all about data
   * Tableau
   * Gretl
 
-## Certificates
+### Certificates
 <p>
   <img src="images/data_science_az_cert.jpg" alt="Logo" width="800" height="595">
 </p>

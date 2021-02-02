@@ -11,10 +11,7 @@
   </p>
 </p>
 
-# Data-Science
-A repo of courses and projects completed on my way to learning all about data
-
-## Courses
+# Courses
 ### The Modern Python 3 Bootcamp
 * [https://www.udemy.com/course/the-modern-python3-bootcamp/]()
 * The highest rated Python course on Udemy

@@ -7,7 +7,7 @@
   <h3 align="center">Data....</h3>
 
   <p align="center">
-    A repo dedicated to learning data science
+    A repo dedicated to learning programming and data science
   </p>
 </p>
 
